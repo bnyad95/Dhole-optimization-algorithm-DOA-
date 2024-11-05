@@ -1,3 +1,6 @@
+Dhole Optimization Algorithm: a New Metaheuristic Algorithm for Solving Optimization Problems
+
+
 This paper presents the Dhole Optimization Algorithm (DOA), an innovative method inspired from the social 
 and hunting activities of dholes, especially their vocal communication and coordination techniques. DOA 
 simulates distinctive behaviors, including vocalization-driven adaptive decision-making and dynamic pack 
@@ -11,3 +14,4 @@ adaptive methods inspired by dhole pack dynamics, accompanied by a comprehensive
 the strengths of DOA. The suggested DOA demonstrates a robust capacity to preserve variety, avoid local optima, 
 and adjust to changing problem environments, rendering it a promising method for addressing complex 
 optimization challenges and enhancing nature-inspired optimization methods.
+![flowchart3](https://github.com/user-attachments/assets/8846aec4-364c-4c17-8d6a-4564be5243ac)
