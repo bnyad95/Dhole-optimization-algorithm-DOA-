@@ -14,4 +14,8 @@ adaptive methods inspired by dhole pack dynamics, accompanied by a comprehensive
 the strengths of DOA. The suggested DOA demonstrates a robust capacity to preserve variety, avoid local optima, 
 and adjust to changing problem environments, rendering it a promising method for addressing complex 
 optimization challenges and enhancing nature-inspired optimization methods.
+
+If you find this work useful for your research, please cite it
+https://doi.org/10.1007/s10586-024-05005-1
+
 ![flowchart3](https://github.com/user-attachments/assets/8846aec4-364c-4c17-8d6a-4564be5243ac)
