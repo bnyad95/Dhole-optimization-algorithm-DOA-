@@ -18,4 +18,4 @@ optimization challenges and enhancing nature-inspired optimization methods.
 If you find this work useful for your research, please cite it
 https://doi.org/10.1007/s10586-024-05005-1
 
-![flowchart3](https://github.com/user-attachments/assets/8846aec4-364c-4c17-8d6a-4564be5243ac)
+<img width="3336" height="2386" alt="flowchart3" src="https://github.com/user-attachments/assets/ef2af2b2-9f6b-4d5f-a0d2-5f7d4017c2f7" />
